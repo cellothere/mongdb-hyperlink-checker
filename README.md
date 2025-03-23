@@ -39,7 +39,7 @@ MONGODB_URI=your-mongodb-connection-string-here
 
 ### 4. Run the script:
 ```bash
-node checkCollectionLinks.js
+node db-checker.js
 ```
 
 Follow the interactive prompts to:
